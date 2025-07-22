@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Let's upload the code lines!"
+title: "AI classifier using teachable machine"
 description: "Test post for code line uploading"
-date: 2025-07-22
+date: 2025-07-24
 tags: [test, style]
 comments: true
 ---
