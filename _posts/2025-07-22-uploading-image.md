@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's upoload the image---"
+title: "Let's upoload the image"
 description: "Test post for image uploading"
 date: 2025-07-22
 tags: [test, style]
@@ -14,7 +14,7 @@ Let's work !
 
 ## Practice
 
-![test_kitten_from_internet](https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+![test_kitten_from_internet](https://www.breatheazy.co.uk/wp-content/uploads/2023/09/Untitled-design-35-1080x675.png)
 
 This is how to upload the image from the internet!
 
