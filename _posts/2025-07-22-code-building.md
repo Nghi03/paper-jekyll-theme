@@ -16,7 +16,7 @@ Let's work on it!
 ### 01. Hello World in Python
 
 ~~~python
-print("Hello, World!")
+print("Hello, World!!!")
 ~~~
 
 This is the most basic Python command. It prints a string to the console.
