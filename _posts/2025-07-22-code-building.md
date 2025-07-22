@@ -26,7 +26,7 @@ This is the most basic Python command. It prints a string to the console.
 ### 02. Variables and Data Types in Python
 
 ~~~python
-name = "UyenNghi"
+name = "UyennNghii"
 age = 16
 is_student = True
 
